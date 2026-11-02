@@ -19,7 +19,7 @@
 | 7x9 cm Universal PCB Prototype Board (Single Sided) | 1 | 0.52 | Mounts the buzzer transistor and resistor circuit permanently | [Link][perfboard] |
 | eSUN PLA Matte Deep Black 1.75mm Filament | 1 | 13.70 | 3D printing the case in black | [Link][filament] |
 
-**Estimated total: $43.05** (sum of Price/Unit x Quantity)
+**Estimated total: $43.05** 
 
 [esp32]: https://robocraze.com/products/esp32-development-board-with-cp2102-wifi-bluetooth-dual-core-30-pin?variant=53806381531360
 [tft]: https://robu.in/product/2-4-inch-spi-interface-240x320-touch-screen-tft-display-module/
