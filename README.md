@@ -37,7 +37,7 @@ A USB powered desk clock that shows the time, date, weather and room conditions 
 | 7x9 cm Universal PCB Prototype Board (Single Sided) | 1 | 0.52 | Mounts the buzzer transistor and resistor circuit permanently | [Link][perfboard] |
 | eSUN PLA Matte Deep Black 1.75mm Filament | 1 | 13.70 | 3D printing the case in black | [Link][filament] |
 
-**Estimated total: $43.05** 
+**Total: $43.05** 
 
 [esp32]: https://robocraze.com/products/esp32-development-board-with-cp2102-wifi-bluetooth-dual-core-30-pin?variant=53806381531360
 [tft]: https://robu.in/product/2-4-inch-spi-interface-240x320-touch-screen-tft-display-module/
@@ -55,8 +55,9 @@ A USB powered desk clock that shows the time, date, weather and room conditions 
 [perfboard]: https://www.google.com/search?q=7x9+cm+Universal+PCB+Prototype+Board+%28Single+Sided%29
 [filament]: https://www.google.com/aclk?sa=L&ai=DChsSEwj5saPekOmXAxXXimYCHbSaB-gYACICCAEQAxoCc20&co=1&ase=2&gclid=CjwKCAiAhqHXBhAXEiwATbksU9eGFoGc2iJ4Q-3A-MDwoa2Rw3I6etRBQBVT3S_B58F3FB1l6U6EQxoC6pcQAvD_BwE&cid=CAAS3QHkaKzLWq60ZtZgkVUjjQkymVDWjCepCZsVbdaMph-auFfHusjYNJLzErO6NKAUvUHJHSfX9mL3lM73UnlyTjq8PfIvuE7VL8SPhuQj2GFLfTdh-BdB_r1WgEP3-Z90YhOeQq3Bj533sF4mORdRJsKHXjoeTqDCsGM1cZs0DhC04F3BuIhnhuKObgsmZJ7WIzzbuEV8w6tkHoIhneAytMa1Msa8SsyeyXUBpgKX-MHgzhoh932fujCl91pUkoevayw_xYS7nwG0hXIpqkXJvI5ZW0JCMwM_4WxXapO7FQ&cce=2&category=acrcp_v1_32&sig=AOD64_0ZD7ANSCux-IvFwPihHKeRcx5lWw&ctype=5&q=&nis=4&ved=2ahUKEwj3i5zekOmXAxUHyqACHaEVNPkQ5bgDKAB6BAgMEAs&adurl=
 
-## Circuit Diagam 
-## Pin Map
+## Circuit Diagram 
+<img width="804" height="439" alt="image" src="https://github.com/user-attachments/assets/902f8118-e329-4791-8cec-ceaa249df4f9" />
+
 ## Pin Mapping
 
 Board: ESP32 DevKit V1 (30-pin). Powered over USB.
@@ -139,3 +140,11 @@ Keep your WiFi password and GitHub token out of any commit. Edit a local copy of
 - **Build error about `JsonDocument`:** install ArduinoJson 7, because version 6 does not have it.
 
 ## CAD Model
+1. Case
+    <img width="1600" height="1039" alt="WhatsApp Image 2026-11-02 at 15 47 44 (1)" src="https://github.com/user-attachments/assets/c2e0abe9-d234-4d74-a6e1-5b60a9f49803" />
+  4 inward extruded corners are for you to stick the lid with hot glue
+2. Lid
+   <img width="1600" height="1039" alt="WhatsApp Image 2026-11-02 at 15 47 44" src="https://github.com/user-attachments/assets/83ddd74a-6bff-4cbe-ae97-8f3ec36df3b0" />
+   the ear like extrutions are for you to apply force and remove the lid from the base when it's stuck with glue
+3. Complete
+    <img width="1600" height="1039" alt="WhatsApp Image 2026-11-02 at 15 47 43" src="https://github.com/user-attachments/assets/48554d89-c90d-4ecf-917b-da1699eb60d8" />
